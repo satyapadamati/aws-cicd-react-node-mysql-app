@@ -444,7 +444,7 @@ Navigate to CodeDeploy --> Applications --> Create Application
 
 
 12. Configuring AWS CodePipeline for Web Tier
-=====================================================
+===================================================
 
 Navigate to CodePipeline --> Create Pipeline
 
