@@ -465,7 +465,7 @@ Navigate to CodePipeline --> Create Pipeline
 	Deployment group = frontend-deployment-grp
 
 
-Setup CloudFront and R53
+
 
 
 
