@@ -1,7 +1,7 @@
 
 AWS CI/CD Pipeline | Deploy Production-Grade Full-Stack App | CodeBuild, CodeDeploy, CodePipeline
-=================================================================================================
 
+=================================================================================================
 
 1 Create own VPC
 2.Create Security Groups
